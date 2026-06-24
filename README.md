@@ -54,11 +54,6 @@ User-Item Rating Matrix
 Evaluation (RMSE + Precision@K)
 ```
 
-## 📈 Visualizations
-
-![Ratings Distribution](ratings_per_distribution.png)
-![Top 10 Movies](top_10_rated_movies.png)
-![Ratings per User](ratings_per_user_distribution.png)
 
 ## 🚀 How to Run
 
